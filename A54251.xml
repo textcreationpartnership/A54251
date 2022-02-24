@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the book entituled The Quakers challenge at two several weapons, to the Baptists, Presbyters, Papists, and other professors the original of which being brought me since my answer to it (which some years I had not seen) I was willing to have this reprinted, partly for the sake of such who have not seen the same, and in abhorrence and detestation of that proud, exalted, antichristian spirit that writ it ... / published on the behalf of Jesus Christ ... J.P.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54251</idno>
+            <idno type="STC">Wing P1402</idno>
+            <idno type="STC">ESTC R35104</idno>
+            <idno type="EEBO-CITATION">14990985</idno>
+            <idno type="OCLC">ocm 14990985</idno>
+            <idno type="VID">103046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the book entituled The Quakers challenge at two several weapons, to the Baptists, Presbyters, Papists, and other professors the original of which being brought me since my answer to it (which some years I had not seen) I was willing to have this reprinted, partly for the sake of such who have not seen the same, and in abhorrence and detestation of that proud, exalted, antichristian spirit that writ it ... / published on the behalf of Jesus Christ ... J.P.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>the 19th day of the month call'd February, 1680/1 [i.e. 1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Includes also abstracts from William Penn's 'Judas and the Jews' and George Fox's 'An answer to a paper which came from the papists' "--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eccles, Solomon, 1618-1683. --  Quakers challenge at two several weapons, to the Baptists, Presbyters, Papists, and other professors.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="abstract">
+            <pb facs="tcp:103046:1" rendition="simple:additions"/>
+            <head>
+               <hi>An ABSTRACT of the Book, entituled,</hi> The Quakers
+Challenge at two ſeveral Weapons, to the Baptiſts, Presbyters, Papiſts,
+and other profeſſors.</head>
+            <div type="cover_note">
+               <p>The Original of which being brought me ſince my Anſwer to
+it (which for ſome Years I had not ſeen) I was willing to have this
+reprinted, partly for the ſake of ſuch who have not ſeen the ſame, and
+in abhorrence and deteſtation of that proud, exalted, Antichriſtian Spirit
+that writ it; whoſe Works of Wickedneſs, and Deeds of Darkneſs muſt not
+always go undetected and unpuniſhed.</p>
+               <q>But who ſhall live when God doth this?</q>
+               <p>Publiſhed on the behalf of <hi>CHRIST JES<g ref="char:V">Ʋ</g>S</hi> the Son
+of the Living GOD, who is not only become my alone Saviour, Sanctifier, and
+Redeemer, but alſo my great LORD and Maſter, to teach and inſtruct me in
+His Word, Work, Worſhip, and Service this day: for which I cannot but
+praiſe and magnifie His Name, who is GOD over all, bleſſed for ever and
+for evermore, <hi>Amen,</hi> ſaith His Servant; who is a true Lover of his
+Country, and a Well-wiſher to the weal and good of all Mankind.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="body_of_abstract">
+               <p>AFter S. E. had exclaim'd againſt ſeveral of the
+<hi>Baptiſts</hi> Teachers, ſaying <hi>it was their work to belie the
+Innocent, and fill the Peoples Ears with falſe Reports;</hi> that <hi>they
+were Enemies to the Lord, his Truth and People, &amp;c.</hi> he proceeds to his
+Challenge in theſe words:</p>
+               <p>I do challenge any of the Teachers amongſt the
+<hi>Baptiſts,</hi> or <hi>Independents,</hi> or <hi>Presbyters,</hi> or
+<hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> or <hi>Jeſuits, high Prieſts</hi> and <hi>low
+Prieſts;</hi> for theſe are all blind Guides, and their Profeſſion is
+rotten, their Church is <hi>Babylon,</hi> their Faith is unſound, and their
+Doctrine is falſe for ever. And I will maintain it by theſe two Weapons,
+<hi>viz. To faſt ſeven days and ſeven nights, and not to eat nor to
+drink.</hi> And the next Weapon is, <hi>To wake ſeven days and ſeven
+nights, and not to ſleep till they be faithfully performed before the
+Lord:</hi> and the God that anſwereth by Fire, ſhall be the true God; and
+he that the Lord ſhall carry through this fiery trial, ſhall be accounted a
+Worſhipper of the true God, and ſhall give Him the Glory and Honour, and
+acknowledge His Power, who alone is worthy, who is over all, God bleſſed
+for ever. But he that tires by the way, ſhall be accounted a Member of a
+falſe Church, and an Heretick; whoſe God is his Belly, whoſe Glory is his
+Shame, whoſe End is Deſtruction.</p>
+               <p>Come <hi>Papiſts, &amp;c.</hi> will you maintain that your
+Church is a true Church (which is eſtabliſh'd by Blood) anſwer the
+<hi>Quaker.</hi> — Come <hi>Proteſtants,</hi> who are called by the
+names of <hi>Presbyters, Independents,</hi> and <hi>Baptiſts, Fifth-monarchy,
+Seventh-day Sabbath-men,</hi> and <hi>Family of Love,</hi> the <hi>Quaker</hi>
+denies you ALL, and is come to try you; not by the Tongue, which is your Glory,
+but by the Belly, for that is your chief God: For of a truth you all are
+<q>
+                     <l>Shut out of the Saints Society,</l>
+                     <l>And your Book of the Practice of Piety.</l>
+                  </q>
+               </p>
+               <p>Come <hi>Papiſts</hi> and <hi>Proteſtants, Gog</hi> and
+<hi>Magog,</hi> will you be daunted by a <hi>Quaker?</hi> Stand up
+<hi>Presbyters</hi> with your hypocritical Faſtings, who faſt for Strife
+and Debate; who for matter of Perſecution there's none exceeds you; you had
+need be ranked next the <hi>Papiſts,</hi> for who ſo cruel as you againſt
+the Truth? Come, go with me theſe fourteen days journey; and after this two
+times ſeven is over, we will have three times ſeven more. I never knew the
+<hi>Quakers</hi> conquer'd yet by all your cruel weapons; therefore if ever you
+conquer the <hi>Quakers,</hi> it muſt be by Faſting and Watching.</p>
+               <p>Come <hi>Thomas Vincent,</hi> I have a mind to challenge thee:
+but if thou doſt not anſwer, if ei<g ref="char:EOLhyphen"/>ther <hi>Papiſts</hi> or
+<hi>Proteſtants, Jeſuits</hi> or <hi>Prieſts,</hi> are willing to
+anſwer this DUEL: let them name their day and time; and for what God, and for
+what People, and I will anſwer you, or whom you can produce in the behalf of
+the People call'd <hi>Quakers,</hi> who are in the Truth, <hi>[and None but
+THEY.]</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:103046:2" rendition="simple:additions"/>Come
+<hi>Jeremiah Ives, John Lucas, Robert Porter,</hi> and <hi>John Brown;</hi> I
+challenge you, as <hi>Elias</hi> did the falſe Prophets: and thou <hi>Jo.
+Brown,</hi> Baptiſt Teacher— you Blaſphemers come and anſwer this
+Duel. Stand up you ſleepy Profeſſors and maintain your Aſſertions.
+Come <hi>Jeremy,</hi> I muſt not paſs thee by, for I teſtifie thy Faith
+is falſe, and ſo is thy Doctrine, and thy Profeſſion is rotten, and thy
+God is thy Belly; and thy Faith the Faith of Devils, that purifieth not the
+Heart, <hi>&amp;c.</hi>
+               </p>
+               <p>Stand up, old <hi>Thomas Lamb;</hi> come old <hi>Thomas</hi>
+and young <hi>Thomas,</hi> and help your Brethren, <hi>Jer. Ives, Matthew
+Caffin</hi> and <hi>William Burnet;</hi> for the <hi>Quaker</hi> denies your
+Church, and is come to the true Church, the ground and pillar of Truth,
+<hi>&amp;c.</hi>
+               </p>
+               <p>Come forth you <hi>Jeſuits</hi> and <hi>Papiſts,
+Monks</hi> and <hi>Friars, Star-gazers, Monthly-Prognoſticators,</hi> and
+<hi>Aſtrologers,</hi> and all the <hi>Devils Conjurers;</hi> will you not
+find a Man to anſwer the <hi>Quakers?</hi> If you find a Man, let him be
+known who he is, and for what God, and for what People; and let him ſend one
+to me to ſee me perform my Challenge, and I ſhall ſend one to him to
+ſee him perform his Anſwer; or we will be ſhut up together in one
+Room.</p>
+               <p>Stand up <hi>Muggleton</hi> the Sorcerer, whoſe mouth is
+full of Curſes, Lies, and Blaſphemies; who calleſt thy laſt Book, <hi>A
+Looking-Glaſs for George Fox,</hi> whoſe name thou art not worthy to take
+into thy mouth; who is a Prophet indeed, and hath been faithful in the Lord's
+buſineſs from the beginning: It was ſaid of Chriſt, that <hi>He was in
+the World, and the World was made by Him, and the World knew Him not:</hi> So
+it may be ſaid of this true Prophet, whom <hi>John</hi> ſaid he was not;
+but thou ſhalt feel this Prophet one day as heavy as a Milſtone upon thee:
+and although the World knows him not, yet he is known.</p>
+               <p>Come forth <hi>Robert Porter,</hi> thou ſhouldſt anſwer
+this Duel, for thou haſt opened the mouth of God's Enemies againſt the
+Truth and his People: But is not thy God thy Belly, as the reſt of thy lying
+Brethrens? Come forth; it is but fourteen days: and if I fall by the way, thou
+mayeſt then ſay, the Lord never ſent me.</p>
+               <p>Stand up all the Armies of the Beaſt, <hi>Papiſts,
+Jeſuits, Presbyters, Baptiſts,</hi> and all the falſe Prophets of the
+Nation.</p>
+               <p>Come <hi>Gloceſter Profeſſors,</hi> to whom I writ a
+Challenge once, but none would anſwer me; come <hi>William Shepherd</hi> the
+Lawyer, and <hi>Thomas Martin;</hi> come <hi>William Jordan</hi> the Presbyter,
+who ſaid thou wouldſt faſt with me thirty nine days, and I could never
+get thee to faſt one.</p>
+               <p>Never did any thrive that ſpake againſt the
+<hi>Quakers.</hi>
+               </p>
+               <closer>
+                  <signed>Solomon Eccles.</signed>
+               </closer>
+            </div>
+            <div type="publishers_note">
+               <p>The aforeſaid Challenge is not only publiſhed by <hi>S.
+E.</hi> but is alſo owned, or at leaſt coun<g ref="char:EOLhyphen"/>tenanced by the chiefeſt
+Leaders of that People: for the ſaid Challenge is again renewed in their
+Book, <hi>[Judas and the Jews]</hi> in theſe words, <hi>viz. L. Muggleton and
+the Baptiſts have a<g ref="char:EOLhyphen"/>greed with</hi> John Pennyman, <hi>to get ſomething
+againſt</hi> S. E. <hi>to ſave their Bellies; and</hi> John Penny<g ref="char:EOLhyphen"/>man,
+<hi>as a Captain of Cowards, endeavours to ſtrengthen the Enemies of God
+againſt me behind my back: but he ſhould firſt have anſwered my
+Challenge, &amp;c.</hi> (he ſpeaking of <hi>Watching</hi> and
+<hi>Faſting,</hi> which he calls his two Weapons) pag. 72. This Book is put
+forth by <hi>Tho. Briggs, John Whitehead, John Crooke, Solomon Eccles, James
+Claypool, William Goſnel, Henry Stout, Rebecka Travers, Ellis Hooks,
+&amp;c.</hi> and is owned by <hi>George Fox, George Whitehead,</hi> and
+ſeveral others.</p>
+               <p>Here followeth one of <hi>George Fox</hi> his Challenges
+(relating to <hi>Faſting</hi> only) taken out of the Title-Page of his Book,
+entituled, <hi>An Anſwer to a Paper from the Papiſts, &amp;c.</hi>
+               </p>
+               <q rend="margQuotes">
+                  <p>If any <hi>Papist, &amp;c.</hi> will go forth three or four
+weeks with a <hi>Quaker</hi> with Bread and Wa<g ref="char:EOLhyphen"/>ter, and have no more of that
+than the <hi>Quaker</hi> hath,—. So if you dare try this matter, then
+ſome of your ſide ſhall watch the <hi>Quaker,</hi> and ſome of the
+<hi>Quakers</hi> ſide ſhall watch you, and ſo we ſhall try if your
+Bellies be not your God.</p>
+               </q>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+               <epigraph>
+                  <q>
+                     <hi>Wo to the Crown of Pride! Wo to the Shepherds of</hi>
+Iſrael! <hi>I will magnifie the Law, and make it honourable. But this is a
+People robb'd and ſpoil'd: for their Glory is turned into Shame, and their
+Honour into perpetual Reproach and Contempt.</hi>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed the 19th day of the Month call'd
+<hi>February,</hi> 1680/1.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
